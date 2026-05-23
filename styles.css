@@ -273,7 +273,7 @@ font-weight:600;
 grid-template-columns:repeat(auto-fit, minmax(250px,1fr));
 }
 .benefit-card{
-background:#fff6f8;
+background:#f5d4db;
 text-align:center;
 padding:40px 30px;
 border-radius:25px;
@@ -287,7 +287,7 @@ font-size:24px;
 grid-template-columns:repeat(auto-fit, minmax(280px,1fr));
 }
 .testimonial-card{
-background:white;
+background:#f5d4db;
 padding:40px;
 border-radius:25px;
 box-shadow:0 10px 30px rgba(0,0,0,0.06);
